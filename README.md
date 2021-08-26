@@ -50,9 +50,11 @@ so you can see other codes(e.g., DataLoader) for project in here: [AIYTBConsulta
 
 #### Evaluate
 
+* Wavenet
 ![image](https://user-images.githubusercontent.com/71121461/130932482-8847c715-f9c1-40cf-a206-112fa4f89830.png)
 
-![image](https://user-images.githubusercontent.com/71121461/130924128-69fb9cf5-6be6-4fec-8b52-2c545d4baab9.png)
+* ConvGRU
+![image](https://user-images.githubusercontent.com/71121461/130932926-e655c60a-3f55-4d16-ab7a-8a9d5105123c.png)
 
 
 #### Predict
@@ -60,28 +62,18 @@ so you can see other codes(e.g., DataLoader) for project in here: [AIYTBConsulta
 * Wavenet (for predicting 30 days)
 ![image](https://user-images.githubusercontent.com/71121461/130923410-967d38a7-f8ec-44e8-aa35-435ba956e53b.png)
 
-* convGRU (for predicting 1 day)
+* ConvGRU (for predicting 1 day)
 ![image](https://user-images.githubusercontent.com/71121461/130924269-7851e75b-fddb-42d4-9d9f-3bdd107d7de6.png)
 
-* convGRU (for predicting 90 days)
+* ConvGRU (for predicting 90 days)
 ![image](https://user-images.githubusercontent.com/71121461/130932578-2a0189c7-2703-476c-9bc1-8ba4b636715a.png)
+
+
+
 
 ## 🏃‍♂️프로젝트 기간
 * 2020.09~2020.12
 
-## 👀디렉토리 구조
-```
-AIYTBConsultant
-├─data                # 데이터가 저장된 폴더
-│  ├─raw              # 수집한 raw 데이터가 저장된 폴더
-|  └─train_raw.csv    # 학습에 활용되는 데이터
-├─etc                 # 노트북 커널, 각종 분석 플롯 등이 저장된 폴더
-├─model               # 모델 모듈 저장 폴더
-└─preprocessing       # 전처리 모듈 저장 폴더
-```
-## 👩‍👧‍👦프로젝트 인원
-* 프로젝트 참여자: 고지형(본인), 김양기, 박진수, 안나민
-* 담당 교수: 김정래
 ---
 * Capstone projects in the department of mathematics, University of Seoul
 * Period: September 2020 ~ December 2020
