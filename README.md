@@ -1,7 +1,7 @@
 # Youtube-Anlaysis
 Sentimental Analysis of Comment and Predicting New Subscriber Using Wavenet and ConvGRU models (About Youtube)
 
-This Repo contains only **implementation code**,
+This Repository contains only **implementation code**,
 
 so you can see other codes(e.g., DataLoader) for project in here: [AIYTBConsultant](https://github.com/sjinu96/AIYTBConsultant)
 
@@ -18,7 +18,7 @@ so you can see other codes(e.g., DataLoader) for project in here: [AIYTBConsulta
 
 ![image](https://user-images.githubusercontent.com/71121461/130931929-b6b4bd6e-631c-41ce-843c-09671253e52a.png)
 
-![image](https://user-images.githubusercontent.com/71121461/130932659-4b20a422-9516-4067-bfe3-f0a91dc55fae.png)
+![image](https://user-images.githubusercontent.com/71121461/130933242-203a5c10-534d-4d58-a393-e1594884a76b.png)
 
 
 ![image](https://user-images.githubusercontent.com/71121461/130932244-af5cb52f-0fed-448a-afbf-690af4d2a717.png)
