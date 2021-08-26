@@ -50,14 +50,11 @@ so you can see other codes(e.g., DataLoader) for project in here: [AIYTBConsulta
 
 #### Evaluate
 
-* Wavenet
-![image](https://user-images.githubusercontent.com/71121461/130932482-8847c715-f9c1-40cf-a206-112fa4f89830.png)
-
-* ConvGRU
+* WaveNet & ConvGRU
 ![image](https://user-images.githubusercontent.com/71121461/130932926-e655c60a-3f55-4d16-ab7a-8a9d5105123c.png)
 
 
-#### Predict
+#### Example of Predicting New Subscriber
 
 * Wavenet (for predicting 30 days)
 ![image](https://user-images.githubusercontent.com/71121461/130923410-967d38a7-f8ec-44e8-aa35-435ba956e53b.png)
@@ -71,7 +68,7 @@ so you can see other codes(e.g., DataLoader) for project in here: [AIYTBConsulta
 
 
 
-## 🏃‍♂️프로젝트 기간
+## 🏃‍♂️Project Period
 * 2020.09~2020.12
 
 ---
