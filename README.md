@@ -8,6 +8,10 @@ so you can see full codes(e.g., other model, DataLoader, etc.) in here: [AIYTBCo
 
 ## Predict new subscribers in future
 
+### Scaling
+
+![image](https://user-images.githubusercontent.com/71121461/150080834-1063ec4e-5511-4cd0-ba78-17f669e2d94d.png)
+
 ### Model
 * see the directory ***model***
 
