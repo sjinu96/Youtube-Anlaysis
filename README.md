@@ -23,7 +23,7 @@ so you can see full codes(e.g., other model, DataLoader, etc.) in here: [AIYTBCo
 ![image](https://user-images.githubusercontent.com/71121461/130923134-63224b2a-b4d8-4023-aeac-f47128b5229e.png)
 
 ### Evaluate and Predict New Subscriber
-* see the ***Evaluate & Predict.ipnyb***
+* see the [***Evaluate & Predict.ipnyb***](https://github.com/sjinu96/Youtube-Anlaysis/blob/main/Evaluate%20%26%20Predict.ipynb)
 
 #### Evaluate
 
@@ -45,7 +45,7 @@ so you can see full codes(e.g., other model, DataLoader, etc.) in here: [AIYTBCo
 
 
 ## Sentimental Analysis (Use GRU and LSTM)
-* see the ***Sentimental Analysis.ipynb***
+* see the [***Sentimental Analysis.ipynb***](https://github.com/sjinu96/Youtube-Anlaysis/blob/main/Sentimental%20Analysis.ipynb)
 
 
 ![image](https://user-images.githubusercontent.com/71121461/130931929-b6b4bd6e-631c-41ce-843c-09671253e52a.png)
@@ -57,7 +57,7 @@ so you can see full codes(e.g., other model, DataLoader, etc.) in here: [AIYTBCo
 
 
 ## Dimension Analysis for Verified Sampling
-* see the ***Dimension Reduction & Stratified Sampling.ipynb***
+* see the [***Dimension Reduction & Stratified Sampling.ipynb***](https://github.com/sjinu96/Youtube-Anlaysis/blob/main/Dimension%20Reduction%20%26%20Stratified%20Sampling.ipynb)
 
 ![image](https://user-images.githubusercontent.com/71121461/130931765-9e49f0bb-c7aa-4572-8e15-bc466c0c14ae.png)
 
